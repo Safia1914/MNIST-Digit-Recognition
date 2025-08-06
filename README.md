@@ -25,4 +25,3 @@ Achieved high test accuracy in classifying unseen handwritten digits.
 ## 📎 Author
 - Safia Sarfraz
 
-🔗 [View Project Notebook](insert-colab-link) | [View on LinkedIn](insert-linkedin-link)
